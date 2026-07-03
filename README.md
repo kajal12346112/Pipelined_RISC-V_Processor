@@ -1,4 +1,4 @@
-# Pipelined_RISCV_Processor
+# Pipelined_RISC-V_Processor
 This project is a modular 5-stage pipelined RISC-V processor (RV32I subset), fully written in Verilog HDL. It simulates core CPU functionality following the instruction pipeline:  
 Instruction Fetch → Decode → Execute → Memory → Write Back.
 
